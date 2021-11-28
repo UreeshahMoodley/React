@@ -1,0 +1,24 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "first react project for online course",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UreeshahMoodley/React.git"
+  },
+  "author": "Ureeshah Moodley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UreeshahMoodley/React/issues"
+  },
+  "homepage": "https://github.com/UreeshahMoodley/React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

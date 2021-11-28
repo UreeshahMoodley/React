@@ -1,0 +1,2 @@
+node_modules 
+# node modules are ignored when you commit to limit unnecessary stuff on repo
